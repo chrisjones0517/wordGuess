@@ -1,1 +1,2 @@
 # wordGuess
+This is a letter guess game, traditionally called 'Hangman'. To begin, after cloning or forking the repo, you will need to run npm install to add the dependencies. The entry file is set to index.js. To play, type 'node index.js' into the the command line, after which you will be prompted to guess a letter based on the number of blanks available. Note that some solution sets contain multiple words, which will be separated by a space. The game theme is currently set to contain words pertaining to advanced javaScript and programming concepts. 
